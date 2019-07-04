@@ -2,7 +2,7 @@
 > ...and why we use them in Fiori elements
 
 _This is the content of the corresponding [UI5con](https://openui5.org/ui5con/) 2019 session. The original 
-[slides](./media/2019_UI5con_Awesome_UI5_Features.ppt) are available in the
+[slides](./media/2019_UI5con_Awesome_UI5_Features.pptx) are available in the
 [./media](./media) folder._
 
 Fiori elements is a metadata driven UI framework made with UI5. It provides
